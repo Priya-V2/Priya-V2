@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya Vasudevan
 - 👀 I’m interested in MERN Stack Development & Blockchain Development
-- 🌱 I’m currently learning JavaScript, Bootstrap, React, Figma
+- 🌱 I’m currently learning MERN Stack developent.
 - 📫 How to reach me priyav2.bct@gmail.com 
 
 <!---
